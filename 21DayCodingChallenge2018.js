@@ -149,7 +149,6 @@ function percentageReport() {
   return report;
 }  
 
-
 function howDangerousValue(value){
   if (value === "^"){
     return 100;
